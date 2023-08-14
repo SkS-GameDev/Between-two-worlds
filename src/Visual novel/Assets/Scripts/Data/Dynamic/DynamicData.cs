@@ -5,5 +5,6 @@ namespace Data.Dynamic
     [Serializable]
     public class DynamicData
     {
+        public DialoguesData dialogues;
     }
 }
