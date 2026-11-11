@@ -60,4 +60,4 @@ This policy is effective as of 2024-01-31
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at i@shutovks.ru.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 46380958+xAFK-BOTx@users.noreply.github.com.
