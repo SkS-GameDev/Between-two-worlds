@@ -22,7 +22,6 @@ If you are looking for the Android version, it is available in stores [Google Pl
 
 #### Link
 
-- [My VK page](https://vk.com/shutovks)
 - [Play Market](https://play.google.com/store/apps/developer?id=Forge+of+game+worlds)
 - [Itch.io](https://shutovks.itch.io/)
 - [Yandex Games](https://yandex.ru/games/developer/80013)

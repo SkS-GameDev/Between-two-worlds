@@ -22,7 +22,6 @@ Rus | [Eng](../../README.md)
 
 #### Ссылки
 
-- [Моя страница VK](https://vk.com/shutovks)
 - [Play Market](https://play.google.com/store/apps/developer?id=Forge+of+game+worlds)
 - [Itch.io](https://shorko.itch.io/)
 - [Yandex Games](https://yandex.ru/games/developer/80013)
